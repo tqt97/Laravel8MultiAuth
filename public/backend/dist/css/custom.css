@@ -1,0 +1,57 @@
+.sidebar-mini
+    .main-sidebar
+    .nav-flat.nav-child-indent
+    .nav-treeview
+    .nav-treeview
+    .nav-link
+    i.ti-more:before,
+.sidebar-mini
+    .main-sidebar
+    .nav-flat.nav-child-indent
+    .nav-treeview
+    .nav-link
+    i.ti-more:before {
+    content: "\f141";
+}
+
+.sidebar-mini
+    .main-sidebar
+    .nav-flat.nav-child-indent
+    .nav-treeview
+    .nav-treeview
+    .nav-link:hover
+    i.ti-more:before,
+.sidebar-mini
+    .main-sidebar
+    .nav-flat.nav-child-indent
+    .nav-treeview
+    .nav-treeview
+    .nav-link:active
+    i.ti-more:before,
+.sidebar-mini
+    .main-sidebar
+    .nav-flat.nav-child-indent
+    .nav-treeview
+    .nav-treeview
+    .nav-link:focus
+    i.ti-more:before,
+.sidebar-mini
+    .main-sidebar
+    .nav-flat.nav-child-indent
+    .nav-treeview
+    .nav-link:hover
+    i.ti-more:before,
+.sidebar-mini
+    .main-sidebar
+    .nav-flat.nav-child-indent
+    .nav-treeview
+    .nav-link:active
+    i.ti-more:before,
+.sidebar-mini
+    .main-sidebar
+    .nav-flat.nav-child-indent
+    .nav-treeview
+    .nav-link:focus
+    i.ti-more:before {
+    content: "\f30b";
+}
